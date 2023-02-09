@@ -1,2 +1,1 @@
-# trybe-exercicios
- Exercicios desenvolvidos na formação Trybe
+# Meu repositório de Exercícios
